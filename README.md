@@ -1,2 +1,2 @@
 # Testingrator
-Integration testing tools for run configurable integration tests for different enviroments
+Integration testing tools for run configurable integration tests for different environments (Dev, Staging, Production and etc.)
